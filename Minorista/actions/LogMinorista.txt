@@ -1,0 +1,25 @@
+Usuario solicito interactuar con un mayorista.
+- Solicitud aceptada de rellenar stock aceptada: Productos del proveedor Jaguar estan por debajo del valor maximo de stock. Conectando con bot Mayorista
+El bot minorista decide que hacer a continuacion:
+- No esta loggeado, por lo que decide loggearse
+El bot minorista decide que hacer a continuacion:
+- Ya se ha loggeado previamente, por lo que decide realizar una compra a pedido del usuario
+El bot decide que comprar segun el stock actual de sus productos. Se rellenara el stock de aquellos productos que no tienen el stock al maximo y pueden ser comprados en el mayorista con el cual se esta interactuando.
+  + 500 bultos de sopa knorr
+  + 500 bultos de mayonesa helmanns
+  + 500 bultos de fideos matarazzo
+  + 500 bultos de papel higienico scott
+El bot minorista decide que hacer a continuacion:
+- Se termina la interaccion con el mayorista
+Se ejecuto la accion de testeo y se desconto 500 de stock a cada producto.
+Usuario solicito interactuar con un mayorista.
+- Solicitud aceptada de rellenar stock aceptada: Productos del proveedor Jaguar estan por debajo del valor maximo de stock. Conectando con bot Mayorista
+El bot minorista decide que hacer a continuacion:
+- Ya se ha loggeado previamente, por lo que decide realizar una compra a pedido del usuario
+El bot decide que comprar segun el stock actual de sus productos. Se rellenara el stock de aquellos productos que no tienen el stock al maximo y pueden ser comprados en el mayorista con el cual se esta interactuando.
+  + 500 bultos de sopa knorr
+  + 500 bultos de mayonesa helmanns
+  + 500 bultos de fideos matarazzo
+  + 500 bultos de papel higienico scott
+El bot minorista decide que hacer a continuacion:
+- Se termina la interaccion con el mayorista

@@ -1,0 +1,78 @@
+{
+    "cuentas": [
+        {
+            "user": "pepe",
+            "password": 12345,
+            "metodo_pago_fav": "paypal",
+            "n_compras": 1,
+            "compras": [
+                3243
+            ]
+        },
+        {
+            "user": "juan",
+            "password": 12345678,
+            "metodo_pago_fav": null,
+            "n_compras": 0,
+            "compras": []
+        },
+        {
+            "user": "monarca",
+            "password": "12345",
+            "metodo_pago_fav": "visa",
+            "n_compras": 1,
+            "compras": [
+                5881
+            ]
+        }
+    ],
+    "envios": [
+        {
+            "npedido": 3243,
+            "carrito": [
+                {
+                    "producto": "mayonesa",
+                    "unidades": 5,
+                    "precio_unidad": 200
+                },
+                {
+                    "producto": "sopa",
+                    "unidades": 10,
+                    "precio_unidad": 150
+                }
+            ],
+            "valor_total": 2850,
+            "entrega": "15/12/2021",
+            "cobro_envio": true
+        },
+        {
+            "npedido": 5881,
+            "carrito": [
+                {
+                    "producto": "sopa knorr",
+                    "unidades": 500,
+                    "precio_unidad": 624
+                },
+                {
+                    "producto": "mayonesa helmanns",
+                    "unidades": 500,
+                    "precio_unidad": 3160
+                },
+                {
+                    "producto": "fideos matarazzo",
+                    "unidades": 500,
+                    "precio_unidad": 1821
+                },
+                {
+                    "producto": "papel higienico scott",
+                    "unidades": 500,
+                    "precio_unidad": 1761
+                }
+            ],
+            "valor_total": 3683000,
+            "entrega": "27/11/2021",
+            "cobro_envio": false
+        }
+    ],
+    "valor_envio": 350
+}
